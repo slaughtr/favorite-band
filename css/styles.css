@@ -1,0 +1,18 @@
+.sidebar {
+  float: left;
+  width: 40%;
+}
+
+
+body {
+  color: black;
+  background-color: pink;
+}
+
+img {
+  width: 35%;
+}
+
+.body {
+  float: left;
+}
